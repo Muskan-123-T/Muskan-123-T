@@ -36,15 +36,19 @@
 
 ### 📉 [Customer Churn Analysis](https://github.com/Muskan-123-T/customer-churn-analysis)
 > Analyzed customer data to identify key churn indicators and suggest retention strategies.
-- Tools: Python, Pandas, Matplotlib
+- Tools: Excel & Power BI
 
 ### 💰 [Profit Analysis](https://github.com/Muskan-123-T/profit-analysis)
 > Deep dive into business profit trends across product categories and regions.
-- Tools: Python, Excel
+- Tools: Excel & Power BI
 
 ### 🌍 [Global Superstore Sales Analysis](https://github.com/Muskan-123-T/global-superstore-sales-analysis)
 > End-to-end analysis of a global retail dataset covering sales, profit, and shipping.
-- Tools: Python, Pandas, Power BI
+- Tools: SQL, Excel & Power BI
+
+### 📊 [Job Market Analysis](https://github.com/Muskan-123-T/job-market-analysis)
+> Analyzing job market trends, top skills, and salary insights.
+- Tools: SQL, Power BI & Python
 
 ### 🌐 [Team Website Project](https://github.com/Muskan-123-T/Team-Website-Project)
 > Built a team portfolio website using HTML/CSS.
