@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muskan</h1>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Decisions</h3>
 
-<!--
-**Muskan-123-T/Muskan-123-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Fresher actively looking for opportunities in **Data Analytics**
+- 📊 I love exploring data, finding patterns, and telling stories through numbers
+- 🌱 Currently learning **Python basics** and **Excel for data analysis**
+- 💡 I believe data-driven decisions make the world smarter
+- 📬 Open to collaborations, internships, and full-time roles
+
+---
+
+## 🛠️ Skills & Tools
+
+### 📌 Data Analysis
+![Python](https://img.shields.io/badge/Python_Basics-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📌 Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### 📌 Web & Tools
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 📉 [Customer Churn Analysis](https://github.com/Muskan-123-T/customer-churn-analysis)
+> Analyzed customer data to identify key churn indicators and suggest retention strategies.
+- Tools: Python, Pandas, Matplotlib
+
+### 💰 [Profit Analysis](https://github.com/Muskan-123-T/profit-analysis)
+> Deep dive into business profit trends across product categories and regions.
+- Tools: Python, Excel
+
+### 🌍 [Global Superstore Sales Analysis](https://github.com/Muskan-123-T/global-superstore-sales-analysis)
+> End-to-end analysis of a global retail dataset covering sales, profit, and shipping.
+- Tools: Python, Pandas, Power BI
+
+### 🌐 [Team Website Project](https://github.com/Muskan-123-T/Team-Website-Project)
+> Built a team portfolio website using HTML/CSS.
+- Tools: HTML, CSS
+
+---
+
+## 🎯 Learning Goals (2025)
+
+- [ ] 🐍 Get stronger with Python (Pandas, NumPy)
+- [ ] 📊 Master Power BI dashboards
+- [ ] 🗃️ Learn SQL basics (Joins, Filters, Aggregations)
+- [ ] 📁 Build more real-world data projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muskan-123-T&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-123-T&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Muskan-123-T">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ <i>If you find my projects useful, feel free to star them!</i> ⭐</p>
