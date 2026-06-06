@@ -48,7 +48,7 @@
 
 ### 📊 [Job Market Analysis](https://github.com/Muskan-123-T/job-market-analysis)
 > Analyzing job market trends, top skills, and salary insights.
-- Tools: SQL, Power BI & Python
+- Tools: SQL, Power BI 
 
 ### 🌐 [Team Website Project](https://github.com/Muskan-123-T/Team-Website-Project)
 > Built a team portfolio website using HTML/CSS.
