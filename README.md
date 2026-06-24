@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Decisions</h3>
+<h3 align="center">Data Analyst | Power BI · SQL · Excel · DAX | Turning Data into Decisions</h3>
 
 ---
 
 ## 👩‍💻 About Me
-
-- 🎓 Fresher actively looking for opportunities in **Data Analytics**
+- 🎓 B.Tech CSE Graduate (CGPA: 9.24) | 6-Month Data Analytics Internship at Rubixe AI Solutions
 - 📊 I love exploring data, finding patterns, and telling stories through numbers
-- 🌱 Currently learning **Python basics** and **Excel for data analysis**
+- 🌱 Currently strengthening **Python** and **Advanced SQL** skills
 - 💡 I believe data-driven decisions make the world smarter
-- 📬 Open to collaborations, internships, and full-time roles
+- 📬 Open to collaborations and full-time Data Analyst roles
 
 ---
 
@@ -22,10 +21,10 @@
 
 ### 📌 Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 📌 Web & Tools
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -34,41 +33,51 @@
 
 ## 📂 Featured Projects
 
-### 📉 [Customer Churn Analysis](https://github.com/Muskan-123-T/customer-churn-analysis)
-> Analyzed customer data to identify key churn indicators and suggest retention strategies.
-- Tools: Excel & Power BI
+### 🚚 [Supply Chain Analysis Dashboard](https://github.com/Muskan-123-T/supply-chain-analysis)
+> Analyzed end-to-end supply chain operations for Skincare, Haircare & Cosmetics industry using Power BI.
+- 📌 **KPIs:** Revenue 577.60K | 100 SKUs | 46K Products Sold | Avg Defect Rate 2.28
+- 🔍 **Insights:** Supplier 5 highest defect rate | Mumbai top revenue city | Route C most expensive shipping
+- 🛠️ **Tools:** Excel & Power BI
 
-### 💰 [Profit Analysis](https://github.com/Muskan-123-T/profit-analysis)
-> Deep dive into business profit trends across product categories and regions.
-- Tools: Excel & Power BI
+### 🛍️ [Shopping Trends Analysis Dashboard](https://github.com/Muskan-123-T/shopping-trends-analysis)
+> Cleaned 7,800 rows of raw data and built a 6-page interactive Power BI dashboard analyzing customer shopping behavior.
+- 📌 **KPIs:** Revenue $1M | 4K Customers | Avg Purchase $157.62 | Avg Rating 3.39
+- 🔍 **Insights:** Clothing top category ($0.31M) | Female customers (56%) spend more | Spring = peak sales
+- 🛠️ **Tools:** Excel | Power BI | DAX
+
+### 📉 [Customer Churn Analysis](https://github.com/Muskan-123-T/customer-churn-analysis)
+> Analyzed churn behavior of 6,687 telecom customers to identify key drivers behind 26.86% churn rate.
+- 📌 **Insights:** Month-to-Month contracts highest churn | Churned customers higher avg charges ($36.80 vs $28.91)
+- 🛠️ **Tools:** Excel | SQL | Power BI
 
 ### 🌍 [Global Superstore Sales Analysis](https://github.com/Muskan-123-T/global-superstore-sales-analysis)
-> End-to-end analysis of a global retail dataset covering sales, profit, and shipping.
-- Tools: SQL, Excel & Power BI
+> End-to-end analysis of 9,000+ row global retail dataset covering $12.62M in transactions across 6 regions.
+- 📌 **Insights:** Technology top category | High discounts reduce profitability across all segments
+- 🛠️ **Tools:** SQL | Excel | Power BI
+
+### 💰 [Profit Analysis](https://github.com/Muskan-123-T/profit-analysis)
+> Analyzed R&D, Admin & Marketing spend impact on $5.60M total profit across 3 US states.
+- 📌 **Insights:** Marketing (51.96%) & R&D strongly correlated with profit | California underperforming
+- 🛠️ **Tools:** Excel & Power BI
 
 ### 📊 [Job Market Analysis](https://github.com/Muskan-123-T/job-market-analysis)
-> Analyzing job market trends, top skills, and salary insights.
-- Tools: SQL, Power BI 
-
-### 🌐 [Team Website Project](https://github.com/Muskan-123-T/Team-Website-Project)
-> Built a team portfolio website using HTML/CSS.
-- Tools: HTML, CSS
+> Analyzed 742 job postings across 60 industries and 343 companies to identify hiring trends.
+- 📌 **Insights:** Data Scientist (55.23%) most in-demand | New York top hiring city
+- 🛠️ **Tools:** SQL | Power BI
 
 ---
 
-## 🎯 Learning Goals (2025)
-
+## 🎯 Learning Goals (2026)
+- [x] ✅ Master Power BI dashboards
+- [x] ✅ Learn DAX for KPI calculations
+- [x] ✅ Build real-world data projects
 - [ ] 🐍 Get stronger with Python (Pandas, NumPy)
-- [ ] 📊 Master Power BI dashboards
-- [ ] 🗃️ Learn SQL basics (Joins, Filters, Aggregations)
-- [ ] 📁 Build more real-world data projects
-
----
+- [ ] 🗃️ Master Advanced SQL (Joins, Subqueries, CTEs)
+- [ ] 📁 Add more domain projects
 
 ---
 
 ## 🤝 Let's Connect
-
 <p align="left">
   <a href="https://www.linkedin.com/in/muskan-mulani-27a337292" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
