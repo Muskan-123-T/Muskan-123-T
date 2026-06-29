@@ -35,8 +35,8 @@
 
 ### 🏏 [IPL Match Analysis 2008 - 2026](https://github.com/Muskan-123-T/IPL-Matches-2008-2026))
 > Analyzed IPL match data across 18 seasons for trends, team performance & player statistics using Excel, SQL & Power BI.
-- 📌 KPIs: Total Matches 1K | Total Teams 17 | Seasons 18 | Toss Win Rate 50.52%
-- 🔍 Insights: Mumbai Indians most titles | Wankhede top venue | Chasing teams win more in finals
+- - 📌 KPIs: Total Matches 1K | Total Teams 17 | Total Cities 38 | Toss Win % 50.52 | Total Venues 60
+- 🔍 Insights: Mumbai Indians most wins | Wankhede Stadium top venue | YK Pathan top Player of Match |  66.37% teams chose to Field after toss
 - 🛠️ Tools: Excel, SQL & Power BI
 
 ### 🚚 [Supply Chain Analysis Dashboard](https://github.com/Muskan-123-T/supply-chain-analysis)
