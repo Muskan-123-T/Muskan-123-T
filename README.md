@@ -33,6 +33,12 @@
 
 ## 📂 Featured Projects
 
+### 🏏 [IPL Match Analysis 2008 - 2026](https://github.com/Muskan-123-T/IPL-Matches-2008-2026))
+> Analyzed IPL match data across 18 seasons for trends, team performance & player statistics using Excel, SQL & Power BI.
+- 📌 KPIs: Total Matches 1K | Total Teams 17 | Seasons 18 | Toss Win Rate 50.52%
+- 🔍 Insights: Mumbai Indians most titles | Wankhede top venue | Chasing teams win more in finals
+- 🛠️ Tools: Excel, SQL & Power BI
+
 ### 🚚 [Supply Chain Analysis Dashboard](https://github.com/Muskan-123-T/supply-chain-analysis)
 > Analyzed end-to-end supply chain operations for Skincare, Haircare & Cosmetics industry using Power BI.
 - 📌 **KPIs:** Revenue 577.60K | 100 SKUs | 46K Products Sold | Avg Defect Rate 2.28
